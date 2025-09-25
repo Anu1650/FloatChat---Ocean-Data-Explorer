@@ -1,0 +1,15 @@
+{
+  "name": "floatchat-main",
+  "version": "1.0.0",
+  "description": "> **AI-Powered Conversational Interface for Argo Ocean Data with Dynamic Theming**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
